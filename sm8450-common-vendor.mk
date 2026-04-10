@@ -229,8 +229,10 @@ PRODUCT_PACKAGES += \
     libq3dtools_adreno \
     libq3dtools_esx \
     libCB \
+    libC2D2 \
     libOpenCL \
     libadreno_utils \
+    libc2d30_bltlib \
     libgpudataproducer \
     libgsl \
     libkcl \
@@ -751,6 +753,7 @@ PRODUCT_PACKAGES += \
     IWlanService \
     SoterService \
     TimeService \
+    TrustZoneAccessService \
     com.qualcomm.qti.gpudrivers.taro.api31 \
     uimgbaservice \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
